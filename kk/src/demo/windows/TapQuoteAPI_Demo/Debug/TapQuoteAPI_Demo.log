@@ -1,0 +1,37 @@
+﻿生成启动时间为 2018-4-13 10:06:48。
+     1>项目“D:\V9.0_外盘\运维文档\外盘9.0apidemo-VS2015\demo\windows\TapQuoteAPI_Demo\TapQuoteAPI_Demo.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(357,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         D:\soft\Microsoft Visual Studio 2013 Professional CHS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\code\Common\SimpleEvent.cpp ..\..\code\TapQuoteAPI\Demo.cpp ..\..\code\TapQuoteAPI\Quote.cpp
+         Quote.cpp
+     1>d:\v9.0_外盘\运维文档\外盘9.0apidemo-vs2015\demo\code\tapquoteapi\quote.cpp(48): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\soft\microsoft visual studio 2013 professional chs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\v9.0_外盘\运维文档\外盘9.0apidemo-vs2015\demo\code\tapquoteapi\quote.cpp(49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\soft\microsoft visual studio 2013 professional chs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\v9.0_外盘\运维文档\外盘9.0apidemo-vs2015\demo\code\tapquoteapi\quote.cpp(68): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\soft\microsoft visual studio 2013 professional chs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\v9.0_外盘\运维文档\外盘9.0apidemo-vs2015\demo\code\tapquoteapi\quote.cpp(69): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\soft\microsoft visual studio 2013 professional chs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\v9.0_外盘\运维文档\外盘9.0apidemo-vs2015\demo\code\tapquoteapi\quote.cpp(77): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\soft\microsoft visual studio 2013 professional chs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\v9.0_外盘\运维文档\外盘9.0apidemo-vs2015\demo\code\tapquoteapi\quote.cpp(79): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\soft\microsoft visual studio 2013 professional chs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\v9.0_外盘\运维文档\外盘9.0apidemo-vs2015\demo\code\tapquoteapi\quote.cpp(80): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\soft\microsoft visual studio 2013 professional chs\vc\include\string.h(112) : 参见“strcpy”的声明
+         Demo.cpp
+     1>d:\v9.0_外盘\运维文档\外盘9.0apidemo-vs2015\demo\code\tapquoteapi\demo.cpp(18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\soft\microsoft visual studio 2013 professional chs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\v9.0_外盘\运维文档\外盘9.0apidemo-vs2015\demo\code\tapquoteapi\demo.cpp(19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\soft\microsoft visual studio 2013 professional chs\vc\include\string.h(112) : 参见“strcpy”的声明
+         SimpleEvent.cpp
+         正在生成代码...
+       Link:
+         D:\soft\Microsoft Visual Studio 2013 Professional CHS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\V9.0_外盘\运维文档\外盘9.0apidemo-VS2015\demo\windows\..\..\api\lib\win32\TapQuoteAPI_Demo.exe" /INCREMENTAL /NOLOGO TapQuoteAPI.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\V9.0_外盘\运维文档\外盘9.0apidemo-VS2015\demo\windows\..\..\api\lib\win32\TapQuoteAPI_Demo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\V9.0_外盘\运维文档\外盘9.0apidemo-VS2015\demo\windows\..\..\api\lib\win32\TapQuoteAPI_Demo.lib" /MACHINE:X86 Debug\SimpleEvent.obj
+         Debug\Demo.obj
+         Debug\Quote.obj
+         TapQuoteAPI_Demo.vcxproj -> D:\V9.0_外盘\运维文档\外盘9.0apidemo-VS2015\demo\windows\..\..\api\lib\win32\TapQuoteAPI_Demo.exe
+     1>已完成生成项目“D:\V9.0_外盘\运维文档\外盘9.0apidemo-VS2015\demo\windows\TapQuoteAPI_Demo\TapQuoteAPI_Demo.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.69

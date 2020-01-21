@@ -1,0 +1,15 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:\u5916\u76D89.0apidemo-VS2015 (1),org.eclipse.launchbar.core.descriptorType.default\:565 Debug,org.eclipse.launchbar.core.descriptorType.default\:\u5916\u76D89.0apidemo-VS2015,org.eclipse.launchbar.core.descriptorType.default\:565 Debug (1),org.eclipse.launchbar.core.descriptorType.default\:565 Debug (2),org.eclipse.launchbar.core.descriptorType.default\:sass Debug,org.eclipse.cdt.debug.core.coreBuildDescriptorType\:888,org.eclipse.launchbar.core.descriptorType.default\:666.exe,org.eclipse.launchbar.core.descriptorType.default\:777.exe
+eclipse.preferences.version=1
+org.eclipse.cdt.debug.core.coreBuildDescriptorType\:888/activeLaunchMode=run
+org.eclipse.cdt.debug.core.coreBuildDescriptorType\:888/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:565\ Debug\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:565\ Debug\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:565\ Debug/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:565\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:\u5916\u76D89.0apidemo-VS2015\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:\u5916\u76D89.0apidemo-VS2015\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:\u5916\u76D89.0apidemo-VS2015/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:\u5916\u76D89.0apidemo-VS2015/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

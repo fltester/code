@@ -1,0 +1,5 @@
+config/888/org.eclipse.cdt.make.core.provider/make.run.win32.x86_64/cdt.launchMode=run
+config/888/org.eclipse.cdt.make.core.provider/make.run.win32.x86_64/cdt.toolChain.id=gcc-x86_64-C\:/Program Files/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/gcc.exe
+config/888/org.eclipse.cdt.make.core.provider/make.run.win32.x86_64/cdt.toolChain.type=org.eclipse.cdt.build.gcc
+eclipse.preferences.version=1
+macros/workspace=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<macros/>\r\n

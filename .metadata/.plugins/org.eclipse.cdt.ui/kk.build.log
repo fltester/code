@@ -1,0 +1,13 @@
+13:33:33 **** Incremental Build of configuration Debug for project kk ****
+Info: Internal Builder is used for build
+g++ "-LE:\\code\\kk\\src\\api\\lib" -o kk.exe "src\\demo\\code\\Common\\SimpleEvent.o" "src\\demo\\code\\TapQuoteAPI\\Demo.o" "src\\demo\\code\\TapQuoteAPI\\Quote.o" "src\\demo\\code\\TapTradeAPI\\Demo.o" "src\\demo\\code\\TapTradeAPI\\trade.o" -lpthread 
+src\demo\code\TapQuoteAPI\Demo.o: In function `main1(int, char**)':
+E:\code\kk\Debug/../src/demo/code/TapQuoteAPI/Demo.cpp:13: undefined reference to `GetTapQuoteAPIVersion'
+E:\code\kk\Debug/../src/demo/code/TapQuoteAPI/Demo.cpp:20: undefined reference to `CreateTapQuoteAPI'
+src\demo\code\TapTradeAPI\Demo.o: In function `main':
+E:\code\kk\Debug/../src/demo/code/TapTradeAPI/Demo.cpp:17: undefined reference to `GetITapTradeAPIVersion'
+E:\code\kk\Debug/../src/demo/code/TapTradeAPI/Demo.cpp:24: undefined reference to `CreateITapTradeAPI'
+collect2.exe: error: ld returned 1 exit status
+
+13:33:33 Build Finished (took 172ms)
+

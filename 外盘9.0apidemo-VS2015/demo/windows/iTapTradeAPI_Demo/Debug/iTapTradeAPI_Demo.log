@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  trade.cpp
+f:\服务部svn\documents\相关文档\培训相关\北斗星api培训\tapapidemo\demo\code\taptradeapi\trade.cpp(72): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+f:\服务部svn\documents\相关文档\培训相关\北斗星api培训\tapapidemo\demo\code\taptradeapi\trade.cpp(73): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+f:\服务部svn\documents\相关文档\培训相关\北斗星api培训\tapapidemo\demo\code\taptradeapi\trade.cpp(75): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+f:\服务部svn\documents\相关文档\培训相关\北斗星api培训\tapapidemo\demo\code\taptradeapi\trade.cpp(76): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+f:\服务部svn\documents\相关文档\培训相关\北斗星api培训\tapapidemo\demo\code\taptradeapi\trade.cpp(189): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+f:\服务部svn\documents\相关文档\培训相关\北斗星api培训\tapapidemo\demo\code\taptradeapi\trade.cpp(190): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  iTapTradeAPI_Demo.vcxproj -> F:\服务部svn\documents\相关文档\培训相关\北斗星API培训\TapAPIDemo\demo\windows\..\..\api\lib\win32\iTapTradeAPI_Demo.exe
+  iTapTradeAPI_Demo.vcxproj -> F:\服务部svn\documents\相关文档\培训相关\北斗星API培训\TapAPIDemo\demo\windows\..\..\api\lib\win32\iTapTradeAPI_Demo.pdb (Full PDB)
